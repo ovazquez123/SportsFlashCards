@@ -1,4 +1,4 @@
-/ load dependencies
+// load dependencies
 var inquirer = require("inquirer");
 
 // load card decks
